@@ -25,3 +25,6 @@ Example: python3 analyze.py /usr/share/seclists/Passwords/Leaked-Databases/rocky
   <img src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/404a1373-b7bf-4395-9e39-34575f908341" width="442" alt="analyze">
   <img src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/98f30cf0-0c2a-439b-929f-9ad06580d404" width="224" alt="analyze2">
   <img src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/08877ed6-d8ce-4d94-b44c-7e98b7d14abd" width="221" alt="analyze3">
+<br><br>
+
+
