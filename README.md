@@ -40,3 +40,13 @@ Example: python3 analyze_type.py /usr/share/seclists/Passwords/Leaked-Databases/
 The Sequential Character Analysis Tool meticulously investigates the adjacency of characters within passwords, revealing the most common subsequent character for each character in a dataset. By scrutinizing ASCII-printable passwords, this tool provides a clear view of sequential character relationships, shedding light on prevalent password composition habits.
 
 <img width="359" alt="analyze_next" src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/8170865d-e4a6-4c43-9ce2-4eb88c804d61">
+<br><br>
+
+**The Positional Character Succession Analysis Tool**
+
+The Positional Character Succession Analysis Tool dives into the sequential nature of characters within passwords, identifying the most commonly followed character for each character at every position up to a specified length. This analysis highlights the predictable patterns in password creation, offering a nuanced view of how users often structure their passwords. By uncovering these trends, the tool aids in developing more sophisticated approaches to password policy enforcement.
+
+<img width="450" alt="analyze_next_each" src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/963d342b-1fea-401b-8629-bb135062dc90">
+<img width="332" alt="analyze_next_each2" src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/3ad98292-011f-4904-a006-82d8c2a793cf">
+
+
