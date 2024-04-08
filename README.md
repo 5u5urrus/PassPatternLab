@@ -33,4 +33,10 @@ Example: python3 analyze.py /usr/share/seclists/Passwords/Leaked-Databases/rocky
 Example: python3 analyze_type.py /usr/share/seclists/Passwords/Leaked-Databases/rockyou-75.txt
 
 <img width="750" alt="analyze_type" src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/8244cdaf-a7f2-4720-946d-9d85eb2b4a82">
+<br><br>
 
+**The Sequential Character Analysis Tool**
+
+The Sequential Character Analysis Tool meticulously investigates the adjacency of characters within passwords, revealing the most common subsequent character for each character in a dataset. By scrutinizing ASCII-printable passwords, this tool provides a clear view of sequential character relationships, shedding light on prevalent password composition habits.
+
+<img width="359" alt="analyze_next" src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/8170865d-e4a6-4c43-9ce2-4eb88c804d61">
