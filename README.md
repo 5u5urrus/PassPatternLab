@@ -14,5 +14,14 @@ Example: python3 analyze_general.py /usr/share/seclists/Passwords/Leaked-Databas
 Example: python3 analyze_1.py /usr/share/seclists/Passwords/Leaked-Databases/rockyou-75.txt
 
 <img width="550" alt="analyze_1" src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/e78c99ed-8541-42c4-a8df-c2c762cda132">
+<br><br>
 
+**The Detailed Positional Character Analysis Tool**
 
+**analyze.py**: The Detailed Positional Character Analysis Tool offers an in-depth examination of password character composition by mapping the frequency and percentage of each character's occurrence at specific positions within a dataset. Utilizing the PrettyTable library for clear and organized output, this script not only identifies the most prevalent characters at each position but also presents a detailed statistical breakdown, enabling a granular understanding of password patterns and tendencies. This analysis aids in reinforcing password strength and policy development by uncovering potential vulnerabilities linked to common character use.
+
+Example: python3 analyze.py /usr/share/seclists/Passwords/Leaked-Databases/rockyou-75.txt
+
+  <img src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/404a1373-b7bf-4395-9e39-34575f908341" width="442" alt="analyze">
+  <img src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/98f30cf0-0c2a-439b-929f-9ad06580d404" width="224" alt="analyze2">
+  <img src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/08877ed6-d8ce-4d94-b44c-7e98b7d14abd" width="221" alt="analyze3">
