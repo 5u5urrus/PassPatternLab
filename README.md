@@ -27,4 +27,11 @@ Example: python3 analyze.py /usr/share/seclists/Passwords/Leaked-Databases/rocky
   <img src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/08877ed6-d8ce-4d94-b44c-7e98b7d14abd" width="221" alt="analyze3">
 <br><br>
 
+**The Enhanced Password Composition Analysis Tool**
+
+The Enhanced Password Composition Analysis Tool scrutinizes the intricacies of password structures, emphasizing the frequency and distribution of character types/categories at each position within passwords. It shows for each position what type of characters are most commonly use - lowercase letters, uppsercase, numbers, special symbols? What are the most common characters for each position? Least common? Least common for each category? All displayed in a compact concise way.
+
+Example: python3 analyze_type.py /usr/share/seclists/Passwords/Leaked-Databases/rockyou-75.txt
+
+<img width="654" alt="analyze_type" src="https://github.com/5u5urrus/PassPatternLab/assets/165041037/8244cdaf-a7f2-4720-946d-9d85eb2b4a82">
 
