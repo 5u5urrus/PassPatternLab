@@ -1,3 +1,7 @@
+# PassPatternLab
+
+![passpatternlab](https://github.com/user-attachments/assets/ea8d10dd-eec5-41df-a191-0d559f4d3952)
+
 **Password Pattern Analysis Tool**
 
 **passlab.py**: This is the main tool that incorporates many of the amazing pattern analysis. Use the '--all' flag to do a comprehensive check. 
