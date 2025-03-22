@@ -1,6 +1,6 @@
 # PassPatternLab
+![PassPatternLab1](https://github.com/user-attachments/assets/32416869-76b0-4642-a9f0-87151c2dbae9)
 
-![passpatternlab](https://github.com/user-attachments/assets/ea8d10dd-eec5-41df-a191-0d559f4d3952)
 
 **Password Pattern Analysis Tool**
 
