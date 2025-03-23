@@ -6,6 +6,8 @@
 
 **passlab.py**: This is the main tool that incorporates many of the amazing pattern analysis. Use the '--all' flag to do a comprehensive check. 
 
+My research article that inspired me to write and use these tools: https://hacking.cool/patterns-hidden-in-passwords-part-2-my-analysis/ 
+
 **The Character Frequency Analysis Tool**
 
 **analyze_general.py**: The Character Frequency Analysis Tool examines password datasets to identify and rank the frequency of character occurrences. By analyzing the distribution of characters within passwords, it provides insights into common patterns, highlighting potential security implications. This tool outputs characters sorted by their prevalence, offering a statistical foundation to assess password strength and complexity.
